@@ -28,6 +28,8 @@ input#text-box {
 	width: 70%;
 	height: 5%;
 	font-size: 0.9em;
+	padding-left: 8px;
+	padding-right: 8px;
 	margin-top: 5%;
 }
 
@@ -54,4 +56,8 @@ div.line-container {
 	overflow: auto;
 	width: 100%;
 	margin-bottom: 5px;
+}
+
+p {
+	font-size: 0.8em;
 }
