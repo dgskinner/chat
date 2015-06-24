@@ -21,7 +21,7 @@ div#container {
 div#view-panel {
 	width: 100%;
 	height: 90%;
-	overflow: scroll;
+	overflow-y: scroll;
 }
 
 input#text-box {
